@@ -14,3 +14,4 @@ En el [ejercicio 2](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/ba
 
 ### Tercer ejercicio
 Crear un programa de bash que escriba los numeros del 1 al 100 y los escriba en un archivo llamado `datos.dat`.
+En el [ejercicio 3.1](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/bash/ejercicio3-1.sh) y [ejercicio 3.2](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/bash/ejercicio3-2.sh) encontraran *mi* respuesta propuesta al ejercicio.

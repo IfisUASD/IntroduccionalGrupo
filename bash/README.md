@@ -10,3 +10,7 @@ En el [ejercicio 1](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/ba
 
 ### Segundo ejercicio
 Crear una carpeta con el nombre de "impresora", dentro de esta crear un archivo de bash que imprima en pantalla "listo", salir de la carpeta y luego crear un programa que entre a la carpeta y corra el programa.
+En el [ejercicio 2](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/bash/ejercicio2.sh) encuentran *mi* respuesta propuesta al ejercicio.
+
+### Tercer ejercicio
+Crear un programa de bash que escriba los numeros del 1 al 100 y los escriba en un archivo llamado `datos.dat`.

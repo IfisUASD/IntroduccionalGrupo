@@ -108,6 +108,6 @@ Sabiendo eso, cuando copien algun repositorio del grupo de investigacion deben s
 foo@bar:~$ pipenv shell
 foo@bar:~$ pipenv install
 ```
-El install sin ningun argumento busca el `Pipfile.lock` e instala las *dependencias* existentes.
+El install sin ningun argumento busca el `Pipfile.lock` e instala las *dependencias* existentes.\
 -Su friendly neighborhood Barry 
 

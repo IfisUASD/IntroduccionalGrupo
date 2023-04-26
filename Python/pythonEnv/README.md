@@ -19,6 +19,48 @@ Donde `[packageName]` es el nombre del paquete, si lo intentamos con `numpy` obt
 ```console
 foo@bar:~$ pipenv install numpy
 ```
-Lo que genera un json llamado [Pipfile.lock]()
+Lo que genera un [json](https://www.json.org/json-en.html) llamado [Pipfile.lock](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/Python/pythonEnv/Pipfile.lock), si revisamos este json, obtenemos toda la informacion de los paquetes externos que estamos usando y esto le dice a la computadora exactamente que version debe descargar para mantener la misma version.\
+Un ejemplo de esto viene dado por:
+```json
+{
+    "_meta": {
+        "hash": {
+            "sha256": "a38b2d2ba9269cbbc9ff5d2cbaa636f4f2410fda0d1e495e27c49c928149bf85"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+}    
+```
+Este es el "header" del `json` que nos indica la version de Python que estaremos usando:
+```json
+{
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+}        
+```
+y de donde sacar cualquier paquete que necesitemos:
+```json
+{
+    "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+    ]
+}
+```
 -Su friendly neighborhood Barry 
 

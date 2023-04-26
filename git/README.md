@@ -19,6 +19,7 @@ Aqui una pequena lista de archivos que generalmente no se comparten ni suben por
 | Datos generados | Datos auxiliares generados por el programa |
 | Archivos auxiliares | Todos los archivos auxiliares excepto los que son de tipo makefile|
 |Archivos ejecutables|Programas compilados|
+
 Para agregar archivos el comando es el siguiente:
 ```console
 foo@bar:~$ git add [namefile]

@@ -109,5 +109,5 @@ foo@bar:~$ pipenv shell
 foo@bar:~$ pipenv install
 ```
 El install sin ningun argumento busca el `Pipfile.lock` e instala las *dependencias* existentes.\
--Su friendly neighborhood Barry 
+-Su friendly neighbourhood Barry 
 

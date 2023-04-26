@@ -10,4 +10,4 @@ Continuamos con el directorio [git](https://github.com/IfisUASD/IntroduccionalGr
 
 Continuamos con el directorios [Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python) que los iniciara con el conocimiento de Python necesario para aportar al grupo.
 
--Su friendly neighborhood Barry 
+-Su friendly neighbourhood Barry 

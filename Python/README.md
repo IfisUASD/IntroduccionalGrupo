@@ -1,3 +1,3 @@
 # Python
-
-Aqui les dejamos un roadmap del orden de aprendizaje en base a los recursos disponibles, iniciamos con [introduccion a Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python/introPython), continuamos con [algoritmos en Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python/algoritmosPython), luego [enviroments en Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python/pythonEnv)
+![Python logo](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/Imagenes/Python-Symbol.png)
+Aqui les dejamos un roadmap del orden de aprendizaje en base a los recursos disponibles, iniciamos con [introduccion a Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python/introPython), continuamos con [algoritmos en Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python/algoritmosPython), luego [enviroments en Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python/pythonEnv) y por ultimo [metodos numericos en Python](https://github.com/IfisUASD/IntroduccionalGrupo/tree/main/Python/metodosnumericos)

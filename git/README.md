@@ -32,4 +32,9 @@ Donde `*` significa "todos". Para borrar un archivo del repositorio y del direct
 ```console
 foo@bar:~$ git rm [namefile]
 ```
-Una vez 
+Una vez ya tengamos guardados los archivos que necesitamos nos toca hacer un `commit` de la siguiente forma:
+```console
+foo@bar:~$ git commit -m "mensaje de commit"
+```
+Un commit no es nada mas que guardar los cambioes hechos en las ultimas modificaciones, el mensaje del comit es un mensaje corto que da una idea de que se modifico, usualmente se menciona el archivo modificado y una descripcion super corta de que se hizo (arreglar funcion, agregar archivo, eliminar, etc).
+Una vez todo este listo lo que queda es como trabajar con github, en otras palabras como subir los commits para compartirlos con personas del grupo, para eso consultar este [link](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository).

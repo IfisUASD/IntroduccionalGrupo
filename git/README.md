@@ -8,3 +8,4 @@ Desde el directorio en donde estamos programando debemos iniciar un repositorio 
 foo@bar:~$ git init
 ```
 Note que la parte que dice `foo@bar:~$` es simplemente un llamado *placeholder* para el path que presenta su terminal, en mi caso mientras estoy haciendo este proceso mi path es:
+![screenshot de mi terminal](https://github.com/IfisUASD/IntroduccionalGrupo/blob/main/Imagenes/19AAFB66-C094-4158-87FB-6500914CA517_4_5005_c.jpeg)

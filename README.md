@@ -1,4 +1,4 @@
-# Bienvenidos al grupo de investigacion del Dr. Vladimir Perez!!
+# Bienvenidos al curso de programacion de la AEF!!
 Este directorio de github es un curso preliminar de la forma de trabajo del grupo y consiste en diferentes directorios que les mostraran como usar sus computadoras para las diferentes investigaciones.
 
 ### **Nota: el workflow del grupo de investigacion se maneja en linux o cualquier unix-based OS**
